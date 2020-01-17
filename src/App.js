@@ -11,6 +11,7 @@ class App extends Component {
           <h2>환영합니다(Welcome to React)</h2>
         </div>
         <p className="App-intro">
+          뭔가 나타나야지.. <br />
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
       </div>
